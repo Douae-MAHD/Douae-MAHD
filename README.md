@@ -1,42 +1,60 @@
-## Hi there 👋
+### Hi there 👋, I am DOuae MAHD! 😁
+<!--
+**DOuae-MAHD/DOuae-MAHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-## 🚀 About Me  
-I am a tech enthusiast and passionate developer, always open to collaborating on projects and innovative ideas.  
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)  
-[![Gmail Badge](https://img.shields.io/badge/-youremail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)  
+Hello, my name is **DOuae MAHD** and I am a **Software Engineer** specialized in **Web and Mobile Applications**.  
+I am passionate about software development, problem-solving, and new technologies. Always open to collaboration on innovative projects.  
 
----
-
-## ⚡ Technologies & Skills  
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-5382A1?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![UML](https://img.shields.io/badge/-UML-5C2D91?style=flat-square&logo=uml)
-![Merise](https://img.shields.io/badge/-Merise-1572B6?style=flat-square)
+- 🔭 I’m currently working on Web & Mobile applications  
+- 🌱 I’m currently learning advanced cloud and DevOps tools  
+- 👯 I’m looking to collaborate on open-source and tech projects  
+- 💬 Ask me about software engineering, full-stack development, and mobile apps  
+- 📫 How to reach me: youremail@gmail.com  
+- 😄 Pronouns: Programmer/She/Her  
+- ⚡ Fun fact: I love learning new frameworks and improving my coding skills  
 
 ---
 
-## 📊 GitHub Stats  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&include_all_commits=true)  
+**Languages and Tools:**  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)  
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
+![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony&style=social)&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/-Django-black?logo=django&style=social)&nbsp;&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-black?logo=dotnet&style=social)&nbsp;&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
+![Java Swing](https://img.shields.io/badge/-Java%20Swing-black?logo=java&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![UML](https://img.shields.io/badge/-UML-black?style=social)&nbsp;&nbsp;
+![Merise](https://img.shields.io/badge/-Merise-black?style=social)&nbsp;&nbsp;
+
+---
+
+![DOuae's Github Stats](https://github-readme-stats.vercel.app/api?username=DOuae-MAHD&count_private=true&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOuae-MAHD&hide=TeX&layout=compact)  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DOuae-MAHD.DOuae-MAHD)  
