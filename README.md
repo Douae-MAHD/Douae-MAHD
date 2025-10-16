@@ -1,6 +1,6 @@
-### Hi there 👋, I am DOuae MAHD! 😁
+### Hi there 👋, I am Douae MAHD! 😁
 <!--
-*DOuae-MAHD/DOuae-MAHD* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Douae-MAHD/Douae-MAHD* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,7 +20,7 @@ I am passionate about software development, problem-solving, and new technologie
 - 🌱 I’m currently learning advanced cloud and DevOps tools  
 - 👯 I’m looking to collaborate on open-source and tech projects  
 - 💬 Ask me about software engineering, full-stack development, and mobile apps  
-- 📫 How to reach me: youremail@gmail.com  
+- 📫 How to reach me: douae.mahd@eidia.ueuromed.org 
 - 😄 Pronouns: Programmer/She/Her  
 - ⚡ Fun fact: I love learning new frameworks and improving my coding skills  
 
