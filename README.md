@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is *DOuae MAHD* and I am a *Software Engineer* specialized in *Web and Mobile Applications*.  
+Hello, my name is *Douae MAHD* and I am a *Software Engineer* specialized in *Web and Mobile Applications*.  
 I am passionate about software development, problem-solving, and new technologies. Always open to collaboration on innovative projects.  
 
 - 🔭 I’m currently working on Web & Mobile applications  
