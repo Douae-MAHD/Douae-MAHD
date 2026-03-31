@@ -1,68 +1,90 @@
-### Hi there 👋, I am Douae MAHD! 😁
-<!--
-*Douae-MAHD/Douae-MAHD* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# 👩‍💻 Hi there, I'm Douae MAHD! 🤖✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Software Engineer | Web & Mobile Developer | AI Enthusiast  
 
-Hello, my name is *Douae MAHD* and I am a *Software Engineer* specialized in *Web and Mobile Applications*.  
-I am passionate about software development, problem-solving, and new technologies. Always open to collaboration on innovative projects.  
-
-- 🔭 I’m currently working on Web & Mobile applications  
-- 🌱 I’m currently learning advanced cloud and DevOps tools  
-- 👯 I’m looking to collaborate on open-source and tech projects  
-- 💬 Ask me about software engineering, full-stack development, and mobile apps  
-- 📫 How to reach me: douae.mahd@eidia.ueuromed.org 
-- 😄 Pronouns: Programmer/She/Her  
-- ⚡ Fun fact: I love learning new frameworks and improving my coding skills  
+Welcome to my GitHub! I'm passionate about building **smart, scalable, and user-friendly applications** by combining **software engineering** with **Artificial Intelligence**.
 
 ---
 
-*Languages and Tools:*  
+## 🧠 About Me
 
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=social)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-C%23-black?logo=csharp&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony&style=social)&nbsp;&nbsp;
-![Django](https://img.shields.io/badge/-Django-black?logo=django&style=social)&nbsp;&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot&style=social)&nbsp;&nbsp;
-![JavaEE](https://img.shields.io/badge/-JavaEE-black?logo=openjdk&style=social)&nbsp;&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-black?logo=dotnet&style=social)&nbsp;&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-black?logo=java&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?logo=googlecloud&style=social)&nbsp;&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![UML](https://img.shields.io/badge/-UML-black?style=social)&nbsp;&nbsp;
-![Merise](https://img.shields.io/badge/-Merise-black?style=social)&nbsp;&nbsp;
+💡 I love turning ideas into real-world digital solutions  
+🤖 Currently exploring **AI integration in web & mobile apps**  
+📱 Building modern applications with clean UI/UX  
+🚀 Always learning, always improving  
 
 ---
 
-![DOuae's Github Stats](https://github-readme-stats.vercel.app/api?username=DOuae-MAHD&count_private=true&show_icons=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOuae-MAHD&hide=TeX&layout=compact)  
+## 🔭 Current Focus
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DOuae-MAHD.DOuae-MAHD)
+- 🌐 Full-stack Web Development  
+- 📱 Mobile App Development (Flutter)  
+- ☁️ Cloud & DevOps (CI/CD, Docker)  
+- 🤖 Artificial Intelligence & Machine Learning integration  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Cloud Architecture (AWS / Azure)  
+- DevOps & Automation  
+- AI-powered applications (LLMs, APIs, smart assistants)  
+
+---
+
+## 👯 Collaboration
+
+💬 Open to collaborate on:
+- Open-source projects  
+- AI-based applications  
+- Innovative startup ideas  
+
+---
+
+## 💬 Ask Me About
+
+- Web Development (Frontend & Backend)  
+- Mobile Apps (Flutter)  
+- Software Architecture  
+- AI Integration in Apps  
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages:  
+`C` `C++` `Python` `JavaScript` `Dart`  
+
+🌐 Web:  
+`HTML` `CSS` `React` `Django` `Symfony`  
+
+📱 Mobile:  
+`Flutter`  
+
+🗄️ Database:  
+`MySQL` `Oracle` `Firebase`  
+
+⚙️ Tools & Others:  
+`Git` `Docker` `Cisco` `Matlab`  
+
+🤖 AI & Data:  
+`Machine Learning` `AI APIs` `Data Processing`  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **douae.mahd@eidia.ueuromed.org**  
+💼 Always open to opportunities and collaborations!
+
+---
+
+## ⚡ Fun Fact
+
+✨ I enjoy learning new frameworks, exploring AI tools, and transforming complex problems into simple solutions!
+
+---
+
+## 🎯 Motto
+
+> "Code smart, build smarter with AI 🤖"
